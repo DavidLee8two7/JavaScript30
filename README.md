@@ -1,2 +1,2 @@
 # JavaScript
-Vanilla JS Challenge
+Daily Vanilla JS practice
