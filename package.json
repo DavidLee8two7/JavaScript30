@@ -1,0 +1,25 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "Daily Vanilla JS Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanBuNam/Daily-JavaScript-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanBuNam/Daily-JavaScript-Practice/issues"
+  },
+  "homepage": "https://github.com/SanBuNam/Daily-JavaScript-Practice#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
