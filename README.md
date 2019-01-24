@@ -1,2 +1,2 @@
 # JavaScript
-Vanilla JS practice as JS is changing
+Vanilla JS practice as JS continue to improve
