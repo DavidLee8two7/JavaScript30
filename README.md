@@ -1,2 +1,2 @@
 # JavaScript
-Daily Vanilla JS practice
+Vanilla JS practice as JS is changing
