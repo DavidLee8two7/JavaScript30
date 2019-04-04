@@ -1,9 +1,8 @@
 // return the character that is most commonly used in the string.
-
 function maxChar(str) {
   const charMap = {};
-  let max = 0;
-  let maxChar = "";
+  const max = 0;
+  const maxChar = "";
 
   for (let char of str) {
     if (charMap[char]) {
