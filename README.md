@@ -1,2 +1,2 @@
-# JavaScript30
-30 Day Vanilla JS Challenge
+# JavaScript
+Vanilla JS - Algorithms + Data Structure
