@@ -9,7 +9,7 @@ Basic / Advance & other free bees. (Find a indi band to by the copy right)
 
 Coding
 
-Create a brand, mood, character, tone, cloth & etc.
+Create a brand, mood, character, tone,, cloth & etc.
 
 Subject
 1. Coding Education Channel - 나만의 특징, 클래스 중간 중간에 모티베이션 스피치 포함하거나 스토리 팰링
